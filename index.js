@@ -1,5 +1,3 @@
-console.log(this.cookie);
-
 addEventListener('fetch', event => {
   event.respondWith(handleRequest(event.request))
 })
