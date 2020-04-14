@@ -1,0 +1,6 @@
+name = "cloudfare_fullstack_intern_submission"
+type = "javascript"
+account_id = "7cc04df8b3844127852da4f62735f850"
+workers_dev = true
+route = ""
+zone_id = ""
